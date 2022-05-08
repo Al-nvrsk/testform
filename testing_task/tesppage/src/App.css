@@ -1,0 +1,28 @@
+* {
+   margin: 0;
+   padding: 0;
+  
+    
+}
+.texts {
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+.Navigation {
+    background-color: rgba(202, 199, 199, 0.934);
+    height: 100vh;
+    display: left ;
+        /* width: 20%; */
+    min-width: 200px;
+    
+}
+
+.Main {
+    background-color: rgb(255, 255, 255);
+    min-width: 200px;
+    min-height: 500px;
+    height: 100%;
+    float: right ;
+    width: 80%
+}

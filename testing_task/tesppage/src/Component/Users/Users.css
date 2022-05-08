@@ -1,0 +1,17 @@
+.Users {
+    border: 1px solid grey;
+    border-radius: 5px;
+    background-color: rgb(213, 208, 208);
+    margin: 15px 30px;
+    width: 65%;
+}
+
+.form {
+    color: rgb(117, 117, 117);
+}
+
+.link {
+    display: flex;
+    justify-content: left;
+    color: blue;
+}
